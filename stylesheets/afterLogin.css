@@ -1,0 +1,57 @@
+#mainLeft {
+	padding-left: 2px;
+	width: 20%;
+	/*For PC*/
+	/*height: 88.8vh;*/
+	/*For Laptop*/
+	height: 85.7vh;
+	float: left;
+	background-color: black;
+}
+
+#mainRight {
+	float: right;
+	width: 80%;
+	/* padding-left: 100px; */
+	/*For PC*/
+	/*height: 88.8vh;*/
+	/*For Laptop*/
+	height: 85.7vh;
+	/* background-color: #0D0D0D; */
+	background-color: #211C1B;
+}
+
+#mainRight iframe {
+	/*For PC*/
+	/*height: 99%;*/
+	/*For Laptop*/
+	height: 98%;
+	width: 100%;
+}
+
+/* #mainRight p {
+	margin-left: 33%;
+	margin-bottom: 40px;
+	font-size: 25px;
+	padding: 10px 10px;
+} */
+	
+p {
+	margin-top: 10px;
+	margin-left: 10px;
+	font-size: 23px;
+}
+
+li {
+	list-style-type: none;
+	margin-left: 25px;
+}
+
+#selectedLink {
+	color: #F27830;
+}
+
+#container{
+	width: 80em;
+	margin: auto;
+}

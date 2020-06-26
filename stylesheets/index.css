@@ -1,0 +1,28 @@
+#mainInfo {
+	/* For PC*/
+	/*height: 79vh;*/
+	/*For Laptop*/
+	height: 73vh;
+	width: 100%;
+}
+
+#mainLeft {
+	width: 20%;
+	/* For PC*/
+	/*height: 79vh;*/
+	/*For Laptop*/
+	height: 73vh;
+	float: left;
+	background-color: black;
+}
+
+#mainRight {
+	float: right;
+	width: 80%;
+	padding-left: 100px;
+	/* For PC*/
+	/*height: 79vh;*/
+	/*For Laptop*/
+	height: 73vh;
+	background-color: #0D0D0D;
+}
